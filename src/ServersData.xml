@@ -1,0 +1,45 @@
+<list>
+  <ServerItem>
+    <nameServer>server Colombia</nameServer>
+    <sshCredential>
+      <hostname>arcom.nms.com.mx</hostname>
+      <username>root</username>
+      <password>4141ensz</password>
+      <port>22</port>
+    </sshCredential>
+  
+    <jadeHost>192.168.204.20</jadeHost> 
+   
+    <mysqlCredential>
+      <hostname>192.168.204.12</hostname>
+      <username>root</username>
+      <password>vitalnoc</password>
+      <port>3306</port>
+      <dataBaseName>nms_col</dataBaseName>
+    </mysqlCredential>
+  
+    <glassFishPath>/opt/glassfish</glassFishPath>
+  </ServerItem>
+  <ServerItem>
+
+    <nameServer>server banorte</nameServer>
+    <sshCredential>
+      <hostname>192.168.207.5</hostname>
+      <username>root</username>
+      <password>T4rd15*52</password>
+      <port>22</port>
+    </sshCredential>
+      
+    <jadeHost>192.168.207.5</jadeHost> 
+  
+    <mysqlCredential>
+      <hostname>192.168.207.40</hostname>
+      <username>root</username>
+      <password>vitalnoc</password>
+      <port>3306</port>
+      <dataBaseName>nms_banorte</dataBaseName>
+    </mysqlCredential>
+   
+    <glassFishPath>/opt/glassfish</glassFishPath>
+  </ServerItem>
+</list>

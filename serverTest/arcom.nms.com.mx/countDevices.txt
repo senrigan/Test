@@ -1,0 +1,13 @@
+RiverbedSteelhead|155
+EmersonUPS(Unitronics)|22
+3Com|1
+Cisco|7500
+HuaweiAR1220 2220 2240|33
+HuaweiS5300|3
+Cisco619|413
+Juniper|79
+ImageStream(Net-SNMP Linux)|1
+Huawei|132
+Pipeline|26
+Genericandpingonlystats|337
+ImageStream|172

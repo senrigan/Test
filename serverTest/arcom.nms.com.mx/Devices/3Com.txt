@@ -1,0 +1,41 @@
+<list>
+  <com.gdc.nms.model.Device>
+    <id>881</id>
+    <type>SWITCH</type>
+    <snmpVersion>V2</snmpVersion>
+    <protocolType>TELNET</protocolType>
+    <sysUpTime>1432391436631</sysUpTime>
+    <flags>207</flags>
+    <configurationFlags>535822336</configurationFlags>
+    <steelheadFlags>0</steelheadFlags>
+    <testTimeout>2000</testTimeout>
+    <intensiveTestDuration>120000</intensiveTestDuration>
+    <snmpTimeout>5000</snmpTimeout>
+    <snmpRetries>2</snmpRetries>
+    <ip>172.28.21.184</ip>
+    <hostname>MALL_PLAZA_02</hostname>
+    <alias>MPF0004 Switch 02 Mall Plaza</alias>
+    <description>Baseline Switch 2426-PWR Plus Product Version 01.00.06 Copyright (c) 2007-2010 Hangzhou H3C Technologies Co., Ltd. All rights Reserved.</description>
+    <contact>Andres Mendez</contact>
+    <location>Mall Plaza</location>
+    <snmpPublicCommunity>tmxc01admi008</snmpPublicCommunity>
+    <snmpUser></snmpUser>
+    <authenticationProtocol> </authenticationProtocol>
+    <securityLevel>0</securityLevel>
+    <sysObjectID>1.3.6.1.4.1.43.1.8.78</sysObjectID>
+    <latencyMeasurementIp></latencyMeasurementIp>
+    <statsTableId>00391</statsTableId>
+    <telnetUser>admin</telnetUser>
+    <telnetPassword>admin</telnetPassword>
+    <privilegeModePassword>ATT_mpf0</privilegeModePassword>
+    <maxGetSize>0</maxGetSize>
+    <lastUpdateTime>1432774803199</lastUpdateTime>
+    <lastConfigTime>0</lastConfigTime>
+    <projectId>5</projectId>
+    <interfaces/>
+    <links/>
+    <ipSlas/>
+    <deviceResources/>
+    <properties/>
+  </com.gdc.nms.model.Device>
+</list>
